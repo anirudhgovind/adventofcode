@@ -9,7 +9,7 @@ editor: source
 ## Libraries
 
 ```{r}
-#| echo: false
+#| message: false
 #| warning: false
 # Load the tidyverse
 

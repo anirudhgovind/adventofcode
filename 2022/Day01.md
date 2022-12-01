@@ -4,6 +4,12 @@ Anirudh Govind
 
 ## Libraries
 
+``` r
+# Load the tidyverse
+
+library(tidyverse)
+```
+
 ## Part 01
 
 — Day 1: Calorie Counting —
